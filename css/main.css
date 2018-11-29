@@ -1,0 +1,7 @@
+body {
+    background: linear-gradient(to left top, teal, green, teal) fixed;
+}
+
+.titleHeader {
+    font-size: 36px;
+}
